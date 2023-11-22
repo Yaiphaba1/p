@@ -3,4 +3,6 @@ int main()
 {
 printf("HuH");
 printf("By the White Cat");
+printf("Dululu");
+printf("Stone Cold Steve Austin");
 }
