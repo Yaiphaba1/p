@@ -2,5 +2,5 @@
 int main()
 {
 printf("HuH");
-printf("By the White Cat")
+printf("By the White Cat");
 }
